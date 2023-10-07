@@ -19,7 +19,7 @@ public static int Max12(int arr[],int n){
    
    }
 
-   return max;
+   return Max;
    
 }
 }
